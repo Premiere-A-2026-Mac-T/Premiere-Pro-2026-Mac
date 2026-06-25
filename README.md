@@ -1,7 +1,7 @@
 # Premiere A 2026 – Industry-Standard Professional Video Editor
 
 <p align="center">
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fadobe_premiere_pro_macos_bigsur_icon_189485.png&id=189485&pack_or_individual=pack" width="150" alt="Premiere Pro 2026 icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" width="150" alt="Premiere Pro 2026 icon"/>
 </p>
 
 <p align="center">
